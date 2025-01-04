@@ -24,6 +24,15 @@ Despite this project's requirement, the wiring would be much simpler to have thi
 - OLED and LCD screen (Can use both, likely only need one. Preferable a large OLED Screen) 
 
 
+## Rough Prototype
+
+Ideally, this device would have better casing but this prototype works and is drivable! A future plan is to have this be in one device with proper casing. 
+![IMG_3540](https://github.com/user-attachments/assets/32392bcf-dbd8-4ff4-b5fd-fb8a0c7662a5)
+
+
+## Fritz Diagram
+![Uploading Screenshot 2025-01-03 at 8.05.48 PM.png…]()
+
 
 
 
