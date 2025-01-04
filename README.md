@@ -31,7 +31,7 @@ Ideally, this device would have better casing but this prototype works and is dr
 
 
 ## Fritz Diagram
-![Uploading Screenshot 2025-01-03 at 8.05.48 PM.png…]()
+<img width="1061" alt="Screenshot 2025-01-03 at 8 05 48 PM" src="https://github.com/user-attachments/assets/67da04a5-16a6-40c8-94bf-d15bfa356636" />
 
 
 
